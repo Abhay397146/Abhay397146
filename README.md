@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Chatting app with Chatbot Integration](https://github.com/Abhay397146/Connectly)
 
-- 🌱 I’m currently learning **React.js, Node.js, Artificial Intelligence T**
+- 🌱 I’m currently learning **React.js, Node.js, Javascript T**
 
 - 💬 Ask me about **React, MERN**
 
